@@ -119,25 +119,19 @@ The Power BI dashboard provides an interactive view of loan applications, approv
 
 It allows users to filter and analyze the data across different customer and business dimensions.
 
-### Dashboard — Page 1
+## 📊 Power BI Dashboard
 
-<!-- Add your first Power BI screenshot here -->
+### Page 1 — Executive Portfolio
 
-![Loan Approval Dashboard - Page 1](screenshots/dashboard_page_1.png)
+![Executive Portfolio](https://github.com/keliya-shelly/Loan-Approval-and-Risk-Analysis/blob/main/Loan-Approval-Analysis/Exc.%20Portfolio-1.png)
 
-### Dashboard — Page 2
+### Page 2 — Credit Risk Analysis
 
-<!-- Add your second Power BI screenshot here -->
+![Credit Risk Analysis](https://github.com/keliya-shelly/Loan-Approval-and-Risk-Analysis/blob/main/Loan-Approval-Analysis/Credit%20Risk-2.png)
 
-![Loan Approval Dashboard - Page 2](screenshots/dashboard_page_2.png)
+### Page 3 — Loan & Customer Analysis
 
-### Dashboard — Page 3
-
-<!-- Add your third Power BI screenshot here -->
-
-![Loan Approval Dashboard - Page 3](screenshots/dashboard_page_3.png)
-
----
+![Loan & Customer Analysis](https://github.com/keliya-shelly/Loan-Approval-and-Risk-Analysis/blob/main/Loan-Approval-Analysis/Loan%20And%20customer%20analysis-3.png)
 
 ## 💡 Key Business Questions
 
@@ -210,7 +204,7 @@ The final dashboard converts **30,000 loan applications** into an interactive an
 
 ## 👤 Author
 
-**Shelly Keliya**
+**Shelly**
 
 *Aspiring Data Analyst | SQL | Python | Pandas | Power BI*
 
